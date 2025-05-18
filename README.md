@@ -4,6 +4,8 @@ Um projeto dedicado a fornecer sugestões de filmes relevantes e interessantes p
 
 ## Sobre o Projeto
 
+O projeto é baseado todo em buscas que utilizam Inteligência Artificial com as API's do Google Gemini, bem como a estrutura de uso é baseada em multi-agentes.
+
 Em um mundo onde a produção de conteúdo é constante, encontrar temas que engajem e cativem a audiência pode ser um desafio. "Sugestão de Filmes para Posts" surge como uma ferramenta para facilitar esse processo, oferecendo um catálogo de filmes selecionados que podem gerar discussões, reflexões ou simplesmente entreter o público do seu conteúdo.
 
 A ideia é ir além de simples listas de "melhores filmes", buscando conexões com temas atuais, nichos específicos ou até mesmo o clima do momento.
